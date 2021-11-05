@@ -1,0 +1,15 @@
+{
+    "type": "MOD",
+    "title": "Template Mod",
+    "name": "template-mod",
+    "short_description": "",
+    "tags": [],
+    "content_warnings": [],
+    "license": "GPL-3.0-only",
+    "media_license": "CC-BY-4.0",
+    "long_description": null,
+    "repo": "https://github.com/mineclone2-mods/template-mod",
+    "website": "https://github.com/mineclone2-mods/template-mod",
+    "issue_tracker": "https://github.com/mineclone2-mods/template-mod/issues",
+    "forums": null,
+}
