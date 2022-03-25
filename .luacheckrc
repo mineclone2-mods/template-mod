@@ -101,10 +101,4 @@ read_globals = {
 	-- PLAYER
 	"mcl_death_drop", "mcl_hunger", "mcl_player", "mcl_playerinfo", "mcl_playerplus", "mcl_skins", "mcl_spawn", "mcl_sprint",
 	"mcl_wieldview", "playerphysics",
-
-	--------------------------------------------
-	-- PALAMOD
-	--------------------------------------------
-	-- OPTIONAL DEPENDS
-	"db_manager", "mc_economy", "mc_faction",
 }
