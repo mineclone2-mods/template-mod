@@ -6,5 +6,6 @@
 	},
 	"Lua.runtime.version": "LuaJIT",
 	"Lua.diagnostics.disable": ["lowercase-global"],
-	"Lua.diagnostics.globals": []
+	"Lua.diagnostics.globals": [],
+	"Lua.format.enable": true
 }
