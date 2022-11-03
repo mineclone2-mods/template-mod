@@ -1,0 +1,10 @@
+{
+	"material-icon-theme.activeIconPack": "none",
+	"material-icon-theme.folders.associations": {
+		"textures": "images",
+		"models": "unity"
+	},
+	"Lua.runtime.version": "LuaJIT",
+	"Lua.diagnostics.disable": ["lowercase-global"],
+	"Lua.diagnostics.globals": []
+}
